@@ -1,0 +1,12 @@
+name: PeopleCraft-CityBuild
+autohr: minemax
+version: 1.0
+main: me.minemax.CityBuild.CityBuildMain
+depend: [Vault]
+commands:
+     gs:
+          usage:
+          default: op
+     stadt:
+          usage:
+          default: op
