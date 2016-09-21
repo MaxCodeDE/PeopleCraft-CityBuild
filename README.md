@@ -1,4 +1,4 @@
-# PeopleCraftNews
+# PeopleCraftCityBuild
 
 Komplettes Citybuild System für einen Minecraft Server.
 
